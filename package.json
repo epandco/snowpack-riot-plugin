@@ -9,6 +9,7 @@
   "files": [
     "snowpack-riot-plugin.js"
   ],
+  "repository": "https://github.com/epandco/snowpack-riot-plugin",
   "author": "EP+Co",
   "license": "MIT",
   "dependencies": {
