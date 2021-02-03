@@ -1,0 +1,17 @@
+{
+  "name": "@epandco/snowpack-riot-plugin",
+  "version": "1.0.0",
+  "description": "Simple Snowpack build plugin for Riot.js",
+  "main": "snowpack-riot-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "snowpack-riot-plugin.js"
+  ],
+  "author": "EP+Co",
+  "license": "MIT",
+  "dependencies": {
+    "@riotjs/compiler": "^5.2.0"
+  }
+}
