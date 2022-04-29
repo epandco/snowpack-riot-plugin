@@ -1,6 +1,6 @@
 {
   "name": "@epandco/snowpack-riot-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Snowpack build plugin for Riot.js",
   "main": "snowpack-riot-plugin.js",
   "scripts": {
